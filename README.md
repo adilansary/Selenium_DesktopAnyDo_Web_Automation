@@ -1,89 +1,133 @@
-#DesktopAnyDo_Website_Automation_Using_Page_object_Model
+# DesktopAnyDo Website Automation Using Page object Model
 
-#Technology used for Test 
-* tool: Selenium
-* Language: Java
-* Architecture: POM
-* Framework: TestNG
-* IDE: eclipse
+## Project Summary
+This project is about Automation of DesktopAnyDo Website using selenium and testng.
 
-#Pre Requisites:
-* Open/install Java JDK 8 version on your PC
-* Install Maven on your PC
-* Install TestNG on your IDE
-* Install Eclipse/STS or any other IDE
-* Setup Java, Maven environment on your PC
-* Chrome driver match with your browser
+## Technology used:
+- tool: Selenium
+- Language: Java
+- Architecture: POM
+- Framework: TestNG
+- IDE: eclipse
 
-#Requirements:
-* These steps are executed:
+## Pre requisites:
+- Open/install Java JDK 8 version on your PC
+- Install Maven on your PC
+- Install TestNG on your IDE
+- Install Eclipse/STS or any other IDE
+- Setup Java, Maven environment on your PC
+- Chrome driver match with your browser
 
-* Open the Chrome browser
-* Maximize the browser window
-* Go to Desktop.any.do Web Site
+## Steps that are executed in the project:
 
-* CreateTask Method:
-1. Click create task
-2. Click on "i want to"
-3. Type Task name
-4. Click "Add Task"
+-Opens the Chrome browser
 
-* Create task with notes and reminder:
-1. Click create task
-2. Click on "i want to"
-3. Type Task name
-4. Click "Insert your notes"
-5. Type Notes name
-6. On right side click "Next week"
-7. Click "Add task"
+-Maximize the browser window
 
-* Create sub task:
-1. On "My friday task" Click "Add a new subtask"
-2. Type "Wake up early"
+-Goes to Desktop.any.do Web Site
 
-* Create list:
-1. On left side in list category click "+" button 
-2. Type list name
+-CreateTask Method:
 
-* Add item on list:
-1. Click "My Shopping List"
-2. Down below click "Click to add task"
-3. Type "T-shirt"
-4. Press enter
-5. Type "Pant"
-6. Press enter
-7. Type "Mouse"
-8. Type "KeyBoard"
+-Click create task
 
-* Change Theme:
-1. on top right side click Settings
-2. Click Theme
-3. Select Dark
-5. Wait 5 Second
-6. Click Dark
+-Click on "i want to"
 
-* Check notification:
-1.On top right Click on notification
-2. Click "updates"
+-Type Task name
 
-* Add Selection Feature on list:
-1. Click "My Shopping List"
-2. On list top side corner click "More options"
-3. Click "Multiple selection"
+-Click "Add Task"
 
-* Create Tag:
-1. On bottom left side in Tag category click "+" button
-2. Click "NO, THANKS"
+-Create task with notes and reminder:
 
-* Log out:
-1. Click settings
-2. Click My Profile
-3. Click Sign out
+-Click create task
 
-* Then Close the browser
+-Click on "i want to"
 
-#Run the script:
-* Right Click to Project
-* Then select Run as TestNG
-* Run the Test Case
-* Close the program
+-Type Task name
+
+-Click "Insert your notes"
+
+-Type Notes name
+
+-On right side click "Next week"
+
+-Click "Add task"
+
+-Create sub task:
+
+-On "My friday task" Click "Add a new subtask"
+
+-Type "Wake up early"
+
+-Create list:
+
+-On left side in list category click "+" button
+
+-Type list name
+
+-Add item on list:
+
+-Click "My Shopping List"
+
+-Down below click "Click to add task"
+
+-Type "T-shirt"
+
+-Press enter
+
+-Type "Pant"
+
+-Press enter
+
+-Type "Mouse"
+
+-Type "KeyBoard"
+
+-Change Theme:
+
+-on top right side click Settings
+
+-Click Theme
+
+-Select Dark
+
+-Wait 5 Second
+
+-Click Dark
+
+-Check notification: 1.On top right Click on notification
+
+-Click "updates"
+
+-Add Selection Feature on list:
+
+-Click "My Shopping List"
+
+-On list top side corner click "More options"
+
+-Click "Multiple selection"
+
+-Create Tag:
+
+-On bottom left side in Tag category click "+" button
+
+-Click "NO, THANKS"
+
+-Log out:
+
+-Click settings
+
+-Click My Profile
+
+-Click Sign out
+
+-Then Close the browser
+
+## How to run:
+
+- Right Click to Project
+- Then select Run as TestNG
+- Run the Test Case
+- Close the program
+
+
+
