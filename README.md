@@ -124,7 +124,7 @@ This project is about Automation of DesktopAnyDo Website using selenium and test
 
 ## How to run:
 
-- Right Click to Project
+- Right Click on Project
 - Then select Run as TestNG
 - Run the Test Case
 - Close the program
