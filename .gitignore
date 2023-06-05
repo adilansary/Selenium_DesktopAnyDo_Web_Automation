@@ -1,1 +1,5 @@
 /target/
+.idea
+.settings
+allure-results
+bin
